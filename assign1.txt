@@ -1,0 +1,9 @@
+ML
+
+Assignment1[14/08/2020]
+=======================
+1>Generate different distribution and plot them.
+  [Guassian,Poision,normal,...]
+
+2>Download at least 3 datasets(Binary classification) from ML repository
+  and use prior probability to classify them.[Baesian theorem]
